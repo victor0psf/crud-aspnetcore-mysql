@@ -1,0 +1,15 @@
+# Ignorar arquivos de configuração sensíveis
+appsettings.Development.json
+appsettings.Local.json
+
+# Ignorar binários e pastas de build
+bin/
+obj/
+
+# Ignorar arquivos de configuração do usuário
+*.user
+*.suo
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
